@@ -1,0 +1,6 @@
+timestamp,event_name,email,location,ip,outcome,reason
+Mon Nov 29 23:17:34 UTC 2021,Update profile data,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.253.2,SUCCESS,
+Mon Nov 29 20:45:53 UTC 2021,Update profile data,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.253.2,SUCCESS,
+Mon Nov 29 20:44:50 UTC 2021,Update profile data,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.253.2,SUCCESS,
+Mon Nov 29 20:31:43 UTC 2021,verifyEmail,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.253.2,SUCCESS,
+Mon Nov 29 20:29:14 UTC 2021,Signup,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.253.2,SUCCESS,
