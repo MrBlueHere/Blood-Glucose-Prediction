@@ -1,8 +1,0 @@
-timestamp,event_name,email,location,ip,outcome,reason,application,device_info
-Wed Dec 08 21:56:40 UTC 2021,Login,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.252.226,SUCCESS,,Fitbit Accounts,"os_name: Ubuntu,browser_name: Firefox,browser_version: 94.0,device_name: Ubuntu"
-Tue Nov 30 22:54:42 UTC 2021,Login,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.241.123,SUCCESS,,Fitbit Accounts,"os_name: Ubuntu,browser_name: Firefox,browser_version: 94.0,device_name: Ubuntu"
-Mon Nov 29 21:04:30 UTC 2021,Login,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.253.2,SUCCESS,,Fitbit Accounts,"os_name: Ubuntu,browser_name: Firefox,browser_version: 94.0,device_name: Ubuntu"
-Mon Nov 29 21:04:07 UTC 2021,Logout,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.253.2,SUCCESS,,Fitbit Accounts,
-Mon Nov 29 21:04:07 UTC 2021,Logout,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.253.2,SUCCESS,,Fitbit Web Application,
-Mon Nov 29 21:03:38 UTC 2021,Login,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.253.2,SUCCESS,,Fitbit Accounts,"os_name: Ubuntu,browser_name: Firefox,browser_version: 94.0,device_name: Ubuntu"
-Mon Nov 29 20:29:15 UTC 2021,Login,floris.ladislav@gmail.com,"Prague, 10, Czechia",86.49.253.2,SUCCESS,,Fitbit for Android,"os_name: Android,os_version: 9,os_type: android,device_name: Xiaomi Redmi Note 8 Pro,device_model: Redmi Note 8 Pro,device_manufacturer: Xiaomi"
